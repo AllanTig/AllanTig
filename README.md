@@ -1,4 +1,7 @@
-
+<body>
+ 
+ 
+ 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AllanTig&show_icons=true&count_private=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats) 
  <img align="right" width="200" style="border-radius:50px;" src="IMGS/giphy.gif">
 
@@ -39,7 +42,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-  <img align="center" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> 
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> 
   <br><br/>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AllanTig&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
@@ -51,3 +54,4 @@
   <a href = "mailto:allantig748@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/j%C3%A9ssica-ribeiro-6a8554266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+</body>
